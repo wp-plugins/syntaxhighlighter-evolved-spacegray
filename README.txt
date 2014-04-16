@@ -1,8 +1,8 @@
 === SyntaxHighlighter - Spacegray ===
 Tags: plugin, code, html, php, css, xhtml, xml, sourcecode, syntax, highlighter, code color, color scheme, theme, spacegray, spacegray light
 Requires at least: 2.7
-Tested up to: 3.8
-Stable tag: 1.0.1
+Tested up to: 3.9
+Stable tag: 1.0.2
 License: GPL-3.0+
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -48,6 +48,9 @@ This plugin depends on the main "SyntaxHighlighter Evolved" plugin. Please downl
 6. Save the new settings.
 
 == Changelog ==
+
+= 1.0.2 =
+* Plugin ready for WP 3.9. No more changes :)
 
 = 1.0.1 =
 * Clean all the css files
